@@ -1,5 +1,7 @@
 # Pixels Arts
 <hr>
+<img src="https://i.pinimg.com/originals/5d/1b/b3/5d1bb3546868cf3791880fa5720da7a2.gif" alt="gif em pixels art - cenario noite com nuvens, lua e lago. A lua reflete na agua em movimento"/>
+
 # Habilidades
 
 - Manipular o DOM
@@ -24,5 +26,5 @@
 3. Divirta-se!!!
 
 ## Screenshots
-<img src="./PixelsArt0.png" /><hr><img src="./PixelsArt1.png" />
+<img src="./PixelsArt0.png" alt="paleta de cores com preto, vermelho, verde e branco e quadro branco com pixels a serem coloridos logo abaixo" /><hr><img src="./PixelsArt1.png" />
 <br>
