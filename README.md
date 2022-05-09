@@ -13,9 +13,9 @@
 0. Certifique-se de possuir a extensão `Live Server` ou `Live Server Preview` no `VS Code` (ou outro simulador de HTML de sua preferência).
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-015-a-project-pixels-art.git`
+  * `git clone https://github.com/italosergio/pixels-art`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-015-a-project-pixels-art`
+    * `cd pixels-art`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
