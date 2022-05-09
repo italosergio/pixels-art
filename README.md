@@ -1,11 +1,5 @@
 # Pixels Arts
-
-<img src="./PixelsArt0.png" />
-<img src="./PixelsArt1.png" />
-<br>
-<br>
-<br>
-
+<hr>
 # Habilidades
 
 - Manipular o DOM
@@ -28,3 +22,7 @@
     * `f1` > `Live Server` ou `Alt+L Alt+O`
 
 3. Divirta-se!!!
+
+## Screenshots
+<img src="./PixelsArt0.png" /><hr><img src="./PixelsArt1.png" />
+<br>
